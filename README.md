@@ -3,8 +3,7 @@
 
 Advanced autonomy for robots applied to the Primary Sector (AURORAS)
 
-https://auroras-project.github.io/
-
+https://project-auroras.github.io/auroras/
 
 ## RESOURCES
 
